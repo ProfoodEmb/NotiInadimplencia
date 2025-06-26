@@ -1,0 +1,44 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NotInad">
+    <output-path>$PROJECT_DIR$/out/artifacts/NotInad</output-path>
+    <root id="archive" name="NotInad.jar">
+      <element id="module-output" name="NotiInadimplencia" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/commons-codec-1.3.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/commons-io-2.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/commons-httpclient-3.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/commons-net-2.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/commons-logging.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/dwf-model.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/commons-net-ftp-2.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/xstream-1.3.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/zip4j-1.3.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/sql-formatter-2.0.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/sascomm.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/sas.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/sanutil.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/SankhyaW-extensions.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/sancrypt.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/protobuf-java-2.4.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/okio-1.6.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/mysql-connector-java-5.1.20-bin.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/mge-modelcore-4.18b15-1.0.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/junit-4.12.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/jtds-1.2.5.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/mge-convert.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/jdom.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/jape-4.18b15-1.0.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/hamcrest-all-1.3.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/gson-2.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/sanws.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/org.eclipse.jgit-4.4.1.201607150455-r.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/slf4j-api-1.7.7.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/sqljdbc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/skw-environment.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/ojdbc7.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../JAVA Bibliotecas Sankhya/outros/sankhyaW_gerenciador_de_pacotes/lib/tools.jar" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.15.2" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.15.2" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.15.2" />
+    </root>
+  </artifact>
+</component>
